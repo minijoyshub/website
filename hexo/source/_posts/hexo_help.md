@@ -2,7 +2,8 @@
 title: Hexo使用记录
 date: 2026-06-23 18:06:01
 ---
-# 教程
+## 教程
+
 在官网下载安装 node.js
 
 安装 hexo-cli  
@@ -23,7 +24,7 @@ date: 2026-06-23 18:06:01
 一键生成与部署  
 `hexo g -d`
 
-# 更新hexo版本
+## 更新hexo版本
 
 全局升级hexo-cli
 `npm i hexo-cli -g`
