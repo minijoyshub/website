@@ -100,7 +100,7 @@ theme: next
 
 beian:
   enable: true
-  icp: '<a href="https://miit.gov.cn" target="_blank" style="color:#555;">粤ICP备20019719号-11</a>'
+  icp: '<a href="https://beian.miit.gov.cn" target="_blank" style="color:#555;">粤ICP备20019719号-11</a>'
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
